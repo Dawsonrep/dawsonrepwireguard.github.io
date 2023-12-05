@@ -12,3 +12,29 @@
 11) Create a config file in vscode and paste the text and save it
 12) Download the Wireguard app on your laptop and choose the file that you saved from VScode
 13) Click the activate button to activate the VPN and check IPleak.net to see if your IP has changed
+![https://keep.google.com/u/0/media/v2/1Avzo_Vw2DHJtB-yXkOztLOt-UhLV7q1q2ll5XpKBZQyUrOVKKaXpJ7af09HMH0U/1RinqDk3iyMIlun1y4q7WT6lVxQYipDtN4y8p7uNLbhw7t0eUzb4HqqpSgTJCAhU?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
