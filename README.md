@@ -18,7 +18,12 @@
 
 ![unnamed](https://github.com/Dawsonrep/wireguard/assets/124703437/7edf4013-2602-40f0-b7aa-911ab5918a93)
 
+![unnamed (1)](https://github.com/Dawsonrep/wireguard/assets/124703437/cf1c2df7-e181-4755-8ae3-b7d0d6b37073)
 
+
+![unnamed (2)](https://github.com/Dawsonrep/wireguard/assets/124703437/f8b0b602-679c-4b3d-b467-0155c024b0c7)
+
+![unnamed (3)](https://github.com/Dawsonrep/wireguard/assets/124703437/7249e8d8-8f35-41ec-b74e-1b97108c91c3)
 
 
 
